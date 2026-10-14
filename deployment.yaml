@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: vetcare-container
-          image: 385936845252.dkr.ecr.us-east-1.amazonaws.com/vetcare:15
+          image: 385936845252.dkr.ecr.us-east-1.amazonaws.com/vetcare:16
           ports:
             - containerPort: 8080
           resources:
